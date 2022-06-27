@@ -1,0 +1,14 @@
+{
+  "name": "custom-loadush",
+  "version": "1.0.0",
+  "description": "The another one custom-loadash library",
+  "main": "customLoadush.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Artsiom Shabanau",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^28.1.1"
+  }
+}
